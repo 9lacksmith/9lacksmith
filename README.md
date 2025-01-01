@@ -13,3 +13,9 @@ Python, JavaScript, and a bit of creativity.
 
 - Small projects that solve real-world problems  
 - Learning as I go and sharing what I can
+
+## ⚡ Fun Fact  
+
+Coffee is my co-pilot. ☕  
+
+*Thanks for stopping by. Let’s build something cool together*!
